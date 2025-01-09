@@ -4,6 +4,6 @@ After this you have to run the following code in command Terminal:
 **streamlit run app.py**
 
 
-For this application I am using two dataset which you will get from this link;
+For this application I am using two dataset **(tmdb_5000_movies,tmdb_5000_credits)** which you can download from this link;
 Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
